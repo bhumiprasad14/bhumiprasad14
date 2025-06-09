@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhumi Prasad</h1>
 <h3 align="center">From Wireframe to Website: Building Dynamic Web Solutions.</h3>
 
-- 🌱 I’m currently learning **ReactJs,TailwindCss**
+- 🌱 I’m currently learning **ReactJs,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhumiprasad14](https://github.com/bhumiprasad14)
 
