@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhumi Prasad</h1>
 <h3 align="center">From Wireframe to Website: Building Dynamic Web Solutions.</h3>
 
-- 🌱 I’m currently learning **ReactJs,TypeScript**
+- 🌱 I’m currently learning **ReactJs,TailwindCss**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhumiprasad14](https://github.com/bhumiprasad14)
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhumi-prasad-4782702a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhumi-prasad-4782702a1/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prasad14bhumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasad14bhumi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhumiprasad14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumiprasad14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
